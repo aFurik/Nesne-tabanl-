@@ -1,5 +1,5 @@
 # Nesne-Tabanl-Proje
-23000005634 Dimitri Adımcılar Nesne Tabanlı Proje
+2200004407 Ahmet furkan Balcı  Nesne Tabanlı Proje
 
 Proje 1 Araç Kiralama 
 
